@@ -11,6 +11,7 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 ### Flowcharts components
 ### High-level user stories
 ### Research
+### Teamwork
 
 ## Mechanics
 - Solves Anagrams.
