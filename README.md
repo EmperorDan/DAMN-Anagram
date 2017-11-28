@@ -17,9 +17,16 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 - Solves Anagrams.
 - Has built in library.
 
-## Difficulties & solutions
-- My problem was incorporating a library of words into my code. I was shown a way to add the library to my program, which made it possible to draw from easily (ifstream infile("words.csv");).
-- My next issue is getting the program to determine the first viable anagram. (I am currently figuring this out) [to be updated]
+## Troubleshooting
+- An issue i had, was that my program was displaying every word in my "words.csv" file. So that i could test my code without fear of it crashing. I created a smaller file named "wordy" this file contained several words, making it much less intensive.
+- It was a learning curve linking my library to my code. I asked my classmate if he could help me, and he showed me a way. I needed to add the "word.csv" file (Library of words) to repl.it. After doing this, i needed to link the file to my main code. I linked the two using "ifstream infile(words.csv);". This allowed my program to access the file.
+
+Below is a screenshot showing the problem i encountered. The program is sorting through every word in the library. This is causing lag due to the massive amount of information that is being processed. 
+![](https://i.imgur.com/AqA4kEi.png)
+
+## Repl.it
+- This IDE made it very easy to incorporate external files. Adding the external file containing the library was integral to this project. 
+-
 
 ## Screenshots
 
@@ -28,9 +35,9 @@ Below is the current version of my anagram solver. It accepts users input, (word
 
 ![](https://i.imgur.com/ZXiPkO4.png)
 
-Below is a screenshot showing the problem i have encountered. The program is sorting through every word in the library. This is causing lag due to the massive amount of information that is being processed. 
 
-![](https://i.imgur.com/AqA4kEi.png)
+
+
 
 
 
