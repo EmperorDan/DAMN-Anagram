@@ -12,20 +12,20 @@ using namespace std;
 		cin >> word; // reading the input
 
 	ifstream infile("words.csv");   						// acessing file
-	string line;   											// creating a variable for the line
+	string line;   									// creating a variable for the line
 	while (getline(infile, line)) {   						// for each line in the file // code to repeat
 									
 	   cout << line << endl; // this outputs the current word read from the dictionary
 	   cout << "=========" << endl;
-															// word = tca  word[0] -> t, word[1] -> c, word[2] -> a
-	    for(int i=0; i < word.length(); i++){           	// for each letter in the user's input cat
+											// word = tca  word[0] -> t, word[1] -> c, word[2] -> a
+	    for(int i=0; i < word.length(); i++){           				// for each letter in the user's input cat
 	      
-	      for(int j=0; j < line.length(); j++){        		// for each letter in the line tca
+	      for(int j=0; j < line.length(); j++){        				// for each letter in the line tca
 	         
-    	         cout << word[i] << line[j] << endl;   		// this outputs the current letters that are compared
+    	         cout << word[i] << line[j] << endl;   					// this outputs the current letters that are compared
 	        
-	        if(word[i] == line[j]){                   		// are the letters equals?
-															//counts the number of equal letters
+	        if(word[i] == line[j]){                   				// are the letters equals?
+											//counts the number of equal letters
 	          
 	        }
 	      }
