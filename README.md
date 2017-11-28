@@ -19,7 +19,7 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 
 ## Troubleshooting
 - An issue i had, was that my program was displaying every word in my "words.csv" file. So that i could test my code without fear of it crashing. I created a smaller file named "wordy" this file contained several words, making it much less intensive.
-- It was a learning curve linking my library to my code. I asked my classmate if he could help me, and he showed me a way. I needed to add the "word.csv" file (Library of words) to repl.it. After doing this, i needed to link the file to my main code. I linked the two using ![](https://github.com/EmperorDan/Project-03/blob/Screenshots/Debugging%20snippet.PNG) . This allowed my program to access the file.
+- It was a learning curve linking my library to my code. I asked my classmate if he could help me, and he showed me a way. I needed to add the "word.csv" file (Library of words) to repl.it. After doing this, i needed to link the file to my main code. I linked the two using ![](https://imgur.com/sUaok2C) . This allowed my program to access the file.
 
 Below is a screenshot showing the problem i encountered. The program is sorting through every word in the library. This is causing lag due to the massive amount of information that is being processed. 
 
@@ -27,7 +27,9 @@ Below is a screenshot showing the problem i encountered. The program is sorting 
 
 ## Repl.it
 - This IDE made it very easy to incorporate external files. Adding the external file containing the library was integral to this project. 
--
+- When making a mistake, for example leaving out a "{", or mispelling. Repl.it would alert me to it and show me the peice that needed reviewal. This was extremely helpful as it elliminates wasted time.
+
+![](https://imgur.com/X1kLU2Y)
 
 ## Screenshots
 
