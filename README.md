@@ -4,7 +4,11 @@
 
 The aim of this project was to create a web based Anagram solver. We needed it to solve three letter anagrams, but if possible more.
 
+## High level Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ### High level functional specifications
+
 - Accepts users input.
 
 ![](https://i.imgur.com/Sdda9Gf.png)
@@ -22,11 +26,17 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 - Possible link to definition of found word.
 
 ### Application requirements
+
 ### Mock-ups
+
 ### Storyboards
+
 ### Flowcharts components
+
 ### High-level user stories
+
 ### Research
+
 ### Teamwork
 
 
@@ -43,11 +53,3 @@ Below is a screenshot showing the problem i encountered. The program is sorting 
 I then made a new file named ![](https://i.imgur.com/7AGFixB.png). This file contained several words, far less than the thousands in ![](https://i.imgur.com/SrcldYe.png). Switching these round made the code far less intensive.   
 
 ![](https://i.imgur.com/QdVOdBA.png)
-
-## Repl.it
-- This IDE made it very easy to upload external files. Incorporating the external file containing the library was integral to the project. 
-- When making a mistake, for example leaving out a "{", or mispelling. Repl.it would alert me to it, and then show me the character(s) that needed reviewal. This was extremely helpful as it saves time.
-
-![](https://i.imgur.com/X1kLU2Y.png)
-
-- Another benefit of repl.it is their websites UI. The code on the left side, and the console on the right. This makes testing my code easy, which is a benefit to me because learning.
