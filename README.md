@@ -1,6 +1,7 @@
 # Damn Anagrams
 
 ## Introduction
+
 The aim of this project was to create a web based Anagram solver. We needed it to solve three letter anagrams, but if possible more.
 
 ### High level functional specifications
@@ -13,8 +14,10 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 ![](https://i.imgur.com/DKdV21f.png)
 
 ### High level non-functional specifications
+
 - The ability to solve longer anagrams.
-- 
+- Possible link to definition of found word.
+
 ### Application requirements
 ### Mock-ups
 ### Storyboards
@@ -28,6 +31,7 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 - Has built in library.
 
 ## Troubleshooting
+
 - An issue i had, was that my program was displaying every word in my ![](https://i.imgur.com/SrcldYe.png) file. So that i could test my code without fear of it crashing. I created a smaller file named ![](https://i.imgur.com/7AGFixB.png) this file contained several words, making it much less intensive.
 - It was a learning curve linking my library to my code. I asked my classmate if he could help me, and he showed me a way. I needed to add the ![](https://i.imgur.com/SrcldYe.png) file (Library of words) to repl.it. After doing this, i needed to link the file to my main code. I linked the two using ![](https://i.imgur.com/sUaok2C.png) . This allowed my program to access the file.
 
