@@ -27,6 +27,7 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 ### Teamwork
 
 ## Mechanics
+
 - Solves Anagrams.
 - Has built in library.
 
