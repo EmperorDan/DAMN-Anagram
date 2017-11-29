@@ -5,9 +5,11 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 
 ### High level functional specifications
 - Accepts users input.
+
 ![](https://i.imgur.com/Sdda9Gf.png)
 
 - Compares the letters and length of the word with the library.
+
 ![](https://i.imgur.com/DKdV21f.png)
 
 ### High level non-functional specifications
