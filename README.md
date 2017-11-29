@@ -13,6 +13,9 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 
 ![](https://i.imgur.com/DKdV21f.png)
 
+- Solves Anagrams.
+- Has built in library.
+
 ### High level non-functional specifications
 
 - The ability to solve longer anagrams.
@@ -26,10 +29,7 @@ The aim of this project was to create a web based Anagram solver. We needed it t
 ### Research
 ### Teamwork
 
-## Mechanics
 
-- Solves Anagrams.
-- Has built in library.
 
 ## Troubleshooting
 
@@ -50,3 +50,4 @@ I then made a new file named ![](https://i.imgur.com/7AGFixB.png). This file con
 
 ![](https://i.imgur.com/X1kLU2Y.png)
 
+- Another benefit of repl.it is their websites UI. The code on the left side, and the console on the right. This makes testing my code easy, which is a benefit to me because learning.
