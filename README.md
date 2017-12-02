@@ -1,11 +1,16 @@
 # Damn Anagrams
 
+## Project: 003
+### Required Language:
+c++
+
 ## Introduction
 
 The aim of this project was to create a web based Anagram solver. We needed it to solve three letter anagrams, but if possible more.
 
 ## High level Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+An application where the user is asked to enter three letters. Upon input the program should compare the given characters, and find out if its an anagram. You will be alerted if your letters were an anagram , if not an error message will display. After this you will be sent to the start page.  
 
 ### High level functional specifications
 
@@ -24,23 +29,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - The ability to solve longer anagrams.
 - Possible link to definition of found word.
+- Better UI: Game menu, settings, ect. 
 
 ### Application requirements
+- Google Chrome
+- Repl.it
 
 ### Mock-ups
 
 ### Storyboards
-
 ### Flowcharts components
-
 ### High-level user stories
-
 ### Research
-
 ### Teamwork
-
-
-
 ## Troubleshooting
 
 - An issue i had, was that my program was displaying every word in my ![](https://i.imgur.com/SrcldYe.png) file. So that i could test my code without fear of it crashing. I created a smaller file named ![](https://i.imgur.com/7AGFixB.png) this file contained several words, making it much less intensive.
