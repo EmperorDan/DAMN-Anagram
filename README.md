@@ -1,7 +1,7 @@
 # Damn Anagrams
 
 ## Project: 003
-### Required Language:
+### Required:
 c++
 
 ## Introduction
