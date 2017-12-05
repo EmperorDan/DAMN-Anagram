@@ -1,4 +1,4 @@
-# Damn Anagrams
+# DAMN Anagrams
 
 ## Project: 003
 ### Required:
