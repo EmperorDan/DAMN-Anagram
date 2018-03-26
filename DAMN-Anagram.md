@@ -35,13 +35,6 @@ An application where the user is asked to enter three letters. Upon input the pr
 - Google Chrome
 - Repl.it
 
-### Mock-ups
-
-### Storyboards
-### Flowcharts components
-### High-level user stories
-### Research
-### Teamwork
 ## Troubleshooting
 
 - An issue i had, was that my program was displaying every word in my ![](https://i.imgur.com/SrcldYe.png) file. So that i could test my code without fear of it crashing. I created a smaller file named ![](https://i.imgur.com/7AGFixB.png) this file contained several words, making it much less intensive.
