@@ -14,22 +14,16 @@ An application where the user is asked to enter three letters. Upon input the pr
 
 ### High level functional specifications
 
-- Accepts users input.
-
-![](https://i.imgur.com/Sdda9Gf.png)
-
-- Compares the letters and length of the word with the library.
-
-![](https://i.imgur.com/DKdV21f.png)
-
-- Solves Anagrams.
-- Has built in library.
+- As a user i want it to accept user input.
+- As a user i want it to compare the letters and length of the word with the library.
+- As a user i want it to solve Anagrams.
+- As a user i want a built in library.
 
 ### High level non-functional specifications
 
-- The ability to solve longer anagrams.
-- Possible link to definition of found word.
-- Better UI: Game menu, settings, ect. 
+- As a user i want the ability to solve longer anagrams.
+- As a user i want a link to definition of found word.
+- As a user i want a better UI: Game menu, settings, ect. 
 
 ### Application requirements
 - Google Chrome
